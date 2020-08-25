@@ -4,4 +4,4 @@
 
 [module 4](https://br-works.github.io/module4-solution/index.html)
 
-[module 5](https://br-works.github.io/module5-solution/index.html)
+[module 5](https://br-works.github.io/module5-solution/assignment5-solution-starter/index.html)
